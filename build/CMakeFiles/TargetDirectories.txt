@@ -1,0 +1,10 @@
+C:/Users/HP/Desktop/c++chat/build/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/c++chat/build/CMakeFiles/rebuild_cache.dir
+C:/Users/HP/Desktop/c++chat/build/src/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/c++chat/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/HP/Desktop/c++chat/build/src/server/CMakeFiles/ChatServer.dir
+C:/Users/HP/Desktop/c++chat/build/src/server/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/c++chat/build/src/server/CMakeFiles/rebuild_cache.dir
+C:/Users/HP/Desktop/c++chat/build/src/client/CMakeFiles/ChatClient.dir
+C:/Users/HP/Desktop/c++chat/build/src/client/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/c++chat/build/src/client/CMakeFiles/rebuild_cache.dir
